@@ -1,0 +1,2 @@
+# AutoScraper
+Automatic web scrapping
